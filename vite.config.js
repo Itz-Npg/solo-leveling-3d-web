@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // Project page lives at /solo-leveling-/, so assets must resolve under it.
 export default defineConfig({
-  base: '/solo-leveling-/',
+  base: '/solo-leveling-3d-web/',
   plugins: [react()],
 })
