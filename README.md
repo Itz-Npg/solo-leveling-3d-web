@@ -6,7 +6,7 @@ A three-act scroll experience built on React + Vite.
 npm install
 npm run dev      # dev server
 npm run build    # production build -> dist/
-```
+``` 
 
 ## The three sections
 
